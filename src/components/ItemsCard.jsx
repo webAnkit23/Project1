@@ -46,7 +46,7 @@ export default function ItemsCard({item}) {
             </span>
             
         </div>
-        <button className='p-3 bg-blue-700 rounded-lg w-[230px] text-white text-[20px]'>View</button>
+        <button className='p-3 hover:scale-110 duration-150 bg-blue-700 rounded-lg w-[230px] text-white text-[20px]'>View</button>
     </div>
 </div>
   )
